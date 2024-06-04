@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\asp_practice\\asp.api\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D3E67A-BD9B-4E94-B414-AFECAE8572BD}|asp.api\\asp.api.csproj|c:\\asp_practice\\asp.api\\asp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4D3E67A-BD9B-4E94-B414-AFECAE8572BD}|asp.api\\asp.api.csproj|solutionrelative:asp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D3E67A-BD9B-4E94-B414-AFECAE8572BD}|asp.api\\asp.api.csproj|c:\\asp_practice\\asp.api\\asp.api\\data\\nzwalksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D3E67A-BD9B-4E94-B414-AFECAE8572BD}|asp.api\\asp.api.csproj|solutionrelative:asp.api\\data\\nzwalksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D3E67A-BD9B-4E94-B414-AFECAE8572BD}|asp.api\\asp.api.csproj|c:\\asp_practice\\asp.api\\asp.api\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D3E67A-BD9B-4E94-B414-AFECAE8572BD}|asp.api\\asp.api.csproj|solutionrelative:asp.api\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D3E67A-BD9B-4E94-B414-AFECAE8572BD}|asp.api\\asp.api.csproj|c:\\asp_practice\\asp.api\\asp.api\\models\\domain\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D3E67A-BD9B-4E94-B414-AFECAE8572BD}|asp.api\\asp.api.csproj|solutionrelative:asp.api\\models\\domain\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D3E67A-BD9B-4E94-B414-AFECAE8572BD}|asp.api\\asp.api.csproj|c:\\asp_practice\\asp.api\\asp.api\\asp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A4D3E67A-BD9B-4E94-B414-AFECAE8572BD}|asp.api\\asp.api.csproj|solutionrelative:asp.api\\asp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D3E67A-BD9B-4E94-B414-AFECAE8572BD}|asp.api\\asp.api.csproj|c:\\asp_practice\\asp.api\\asp.api\\models\\domain\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D3E67A-BD9B-4E94-B414-AFECAE8572BD}|asp.api\\asp.api.csproj|solutionrelative:asp.api\\models\\domain\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +34,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\asp_practice\\asp.api\\asp.api\\appsettings.json",
+              "RelativeDocumentMoniker": "asp.api\\appsettings.json",
+              "ToolTip": "C:\\asp_practice\\asp.api\\asp.api\\appsettings.json",
+              "RelativeToolTip": "asp.api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-04T18:29:40.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NZWalksDBContext.cs",
+              "DocumentMoniker": "C:\\asp_practice\\asp.api\\asp.api\\Data\\NZWalksDBContext.cs",
+              "RelativeDocumentMoniker": "asp.api\\Data\\NZWalksDBContext.cs",
+              "ToolTip": "C:\\asp_practice\\asp.api\\asp.api\\Data\\NZWalksDBContext.cs",
+              "RelativeToolTip": "asp.api\\Data\\NZWalksDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:29:40.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Region.cs",
+              "DocumentMoniker": "C:\\asp_practice\\asp.api\\asp.api\\models\\domain\\Region.cs",
+              "RelativeDocumentMoniker": "asp.api\\models\\domain\\Region.cs",
+              "ToolTip": "C:\\asp_practice\\asp.api\\asp.api\\models\\domain\\Region.cs",
+              "RelativeToolTip": "asp.api\\models\\domain\\Region.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:29:40.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Walk.cs",
+              "DocumentMoniker": "C:\\asp_practice\\asp.api\\asp.api\\models\\domain\\Walk.cs",
+              "RelativeDocumentMoniker": "asp.api\\models\\domain\\Walk.cs",
+              "ToolTip": "C:\\asp_practice\\asp.api\\asp.api\\models\\domain\\Walk.cs",
+              "RelativeToolTip": "asp.api\\models\\domain\\Walk.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:29:39.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "asp.api",
+              "DocumentMoniker": "C:\\asp_practice\\asp.api\\asp.api\\asp.api.csproj",
+              "RelativeDocumentMoniker": "asp.api\\asp.api.csproj",
+              "ToolTip": "C:\\asp_practice\\asp.api\\asp.api\\asp.api.csproj",
+              "RelativeToolTip": "asp.api\\asp.api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-04T18:29:39.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Difficulty.cs",
+              "DocumentMoniker": "C:\\asp_practice\\asp.api\\asp.api\\models\\domain\\Difficulty.cs",
+              "RelativeDocumentMoniker": "asp.api\\models\\domain\\Difficulty.cs",
+              "ToolTip": "C:\\asp_practice\\asp.api\\asp.api\\models\\domain\\Difficulty.cs",
+              "RelativeToolTip": "asp.api\\models\\domain\\Difficulty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:29:34.46Z",
+              "EditorCaption": ""
             }
           ]
         }
