@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\asp_practice\\asp.api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A4D3E67A-BD9B-4E94-B414-AFECAE8572BD}|asp.api\\asp.api.csproj|c:\\asp_practice\\asp.api\\asp.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D3E67A-BD9B-4E94-B414-AFECAE8572BD}|asp.api\\asp.api.csproj|solutionrelative:asp.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D3E67A-BD9B-4E94-B414-AFECAE8572BD}|asp.api\\asp.api.csproj|c:\\asp_practice\\asp.api\\asp.api\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D3E67A-BD9B-4E94-B414-AFECAE8572BD}|asp.api\\asp.api.csproj|solutionrelative:asp.api\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A4D3E67A-BD9B-4E94-B414-AFECAE8572BD}|asp.api\\asp.api.csproj|c:\\asp_practice\\asp.api\\asp.api\\migrations\\20240604190733_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4D3E67A-BD9B-4E94-B414-AFECAE8572BD}|asp.api\\asp.api.csproj|solutionrelative:asp.api\\migrations\\20240604190733_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A4D3E67A-BD9B-4E94-B414-AFECAE8572BD}|asp.api\\asp.api.csproj|c:\\asp_practice\\asp.api\\asp.api\\data\\nzwalksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4D3E67A-BD9B-4E94-B414-AFECAE8572BD}|asp.api\\asp.api.csproj|solutionrelative:asp.api\\data\\nzwalksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4D3E67A-BD9B-4E94-B414-AFECAE8572BD}|asp.api\\asp.api.csproj|c:\\asp_practice\\asp.api\\asp.api\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4D3E67A-BD9B-4E94-B414-AFECAE8572BD}|asp.api\\asp.api.csproj|solutionrelative:asp.api\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A4D3E67A-BD9B-4E94-B414-AFECAE8572BD}|asp.api\\asp.api.csproj|c:\\asp_practice\\asp.api\\asp.api\\models\\domain\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,6 +51,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RegionsController.cs",
+              "DocumentMoniker": "C:\\asp_practice\\asp.api\\asp.api\\Controllers\\RegionsController.cs",
+              "RelativeDocumentMoniker": "asp.api\\Controllers\\RegionsController.cs",
+              "ToolTip": "C:\\asp_practice\\asp.api\\asp.api\\Controllers\\RegionsController.cs*",
+              "RelativeToolTip": "asp.api\\Controllers\\RegionsController.cs*",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T16:30:25.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "20240604190733_Initial Migration.cs",
               "DocumentMoniker": "C:\\asp_practice\\asp.api\\asp.api\\Migrations\\20240604190733_Initial Migration.cs",
               "RelativeDocumentMoniker": "asp.api\\Migrations\\20240604190733_Initial Migration.cs",
@@ -59,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\asp_practice\\asp.api\\asp.api\\Program.cs",
               "RelativeDocumentMoniker": "asp.api\\Program.cs",
@@ -71,12 +88,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\asp_practice\\asp.api\\asp.api\\appsettings.json",
               "RelativeDocumentMoniker": "asp.api\\appsettings.json",
@@ -89,7 +102,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "Region.cs",
+              "DocumentMoniker": "C:\\asp_practice\\asp.api\\asp.api\\models\\domain\\Region.cs",
+              "RelativeDocumentMoniker": "asp.api\\models\\domain\\Region.cs",
+              "ToolTip": "C:\\asp_practice\\asp.api\\asp.api\\models\\domain\\Region.cs",
+              "RelativeToolTip": "asp.api\\models\\domain\\Region.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:29:40.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "NZWalksDBContext.cs",
               "DocumentMoniker": "C:\\asp_practice\\asp.api\\asp.api\\Data\\NZWalksDBContext.cs",
               "RelativeDocumentMoniker": "asp.api\\Data\\NZWalksDBContext.cs",
@@ -102,20 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Region.cs",
-              "DocumentMoniker": "C:\\asp_practice\\asp.api\\asp.api\\models\\domain\\Region.cs",
-              "RelativeDocumentMoniker": "asp.api\\models\\domain\\Region.cs",
-              "ToolTip": "C:\\asp_practice\\asp.api\\asp.api\\models\\domain\\Region.cs",
-              "RelativeToolTip": "asp.api\\models\\domain\\Region.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T18:29:40.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Walk.cs",
               "DocumentMoniker": "C:\\asp_practice\\asp.api\\asp.api\\models\\domain\\Walk.cs",
               "RelativeDocumentMoniker": "asp.api\\models\\domain\\Walk.cs",
@@ -128,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "asp.api",
               "DocumentMoniker": "C:\\asp_practice\\asp.api\\asp.api\\asp.api.csproj",
               "RelativeDocumentMoniker": "asp.api\\asp.api.csproj",
@@ -141,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Difficulty.cs",
               "DocumentMoniker": "C:\\asp_practice\\asp.api\\asp.api\\models\\domain\\Difficulty.cs",
               "RelativeDocumentMoniker": "asp.api\\models\\domain\\Difficulty.cs",
