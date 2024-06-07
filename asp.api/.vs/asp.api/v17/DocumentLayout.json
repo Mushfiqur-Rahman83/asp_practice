@@ -56,7 +56,7 @@
               "RelativeDocumentMoniker": "asp.api\\Controllers\\RegionsController.cs",
               "ToolTip": "C:\\asp_practice\\asp.api\\asp.api\\Controllers\\RegionsController.cs*",
               "RelativeToolTip": "asp.api\\Controllers\\RegionsController.cs*",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAmwB8AAAAJAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T16:30:25.502Z",
               "EditorCaption": ""
@@ -71,8 +71,7 @@
               "RelativeToolTip": "asp.api\\Migrations\\20240604190733_Initial Migration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T19:07:34.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T19:07:34.541Z"
             },
             {
               "$type": "Document",
@@ -84,8 +83,7 @@
               "RelativeToolTip": "asp.api\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T18:37:02.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T18:37:02.411Z"
             },
             {
               "$type": "Document",
@@ -97,8 +95,7 @@
               "RelativeToolTip": "asp.api\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-04T18:29:40.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T18:29:40.32Z"
             },
             {
               "$type": "Document",
@@ -110,12 +107,7 @@
               "RelativeToolTip": "asp.api\\models\\domain\\Region.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T18:29:40.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-06-04T18:29:40.101Z"
             },
             {
               "$type": "Document",
@@ -127,8 +119,7 @@
               "RelativeToolTip": "asp.api\\Data\\NZWalksDBContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T18:29:40.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T18:29:40.21Z"
             },
             {
               "$type": "Document",
@@ -140,21 +131,19 @@
               "RelativeToolTip": "asp.api\\models\\domain\\Walk.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T18:29:39.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T18:29:39.914Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "asp.api",
+              "Title": "asp.api.csproj",
               "DocumentMoniker": "C:\\asp_practice\\asp.api\\asp.api\\asp.api.csproj",
               "RelativeDocumentMoniker": "asp.api\\asp.api.csproj",
               "ToolTip": "C:\\asp_practice\\asp.api\\asp.api\\asp.api.csproj",
               "RelativeToolTip": "asp.api\\asp.api.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-04T18:29:39.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T18:29:39.539Z"
             },
             {
               "$type": "Document",
@@ -166,8 +155,11 @@
               "RelativeToolTip": "asp.api\\models\\domain\\Difficulty.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T18:29:34.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T18:29:34.46Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
